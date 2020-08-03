@@ -1,0 +1,13 @@
+.notfound{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgAl4OvzjhiaIMOxWYohWWvuxl233zv7ppDSAsO5T46JYXjNJZ&usqp=CAU);
+width: 100%;
+height: 450px;
+}
+
+
+.error-template {padding: 40px 15px;text-align: center;margin-top: 50px;}
+.error-actions {margin-top:50px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }
+.op{
+    color: white;
+}

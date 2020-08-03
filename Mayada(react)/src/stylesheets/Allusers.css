@@ -1,0 +1,61 @@
+
+
+
+h2
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+   
+    font-weight: bold;
+}
+.image-card
+{
+    border-radius: 100px;
+    margin: 30px;
+    width:148px; 
+    height:148px; 
+
+}
+.image-card:hover
+{
+    box-shadow: 0px 0px 15px rgba(118, 21, 209, 0.3);  
+}
+h1
+{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: cornsilk;
+}
+.ourteam
+{
+    background: url("http://www.webcoderskull.com/img/right-sider-banner.png") no-repeat center top / cover;
+}
+.send
+{
+    border-radius: 5px;
+}
+.send:hover{
+  background-color: red;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+  
+ 
+}
+
+.follow-us{
+	margin:20px 0 0;
+}
+
+.follow-us li{ 
+    display:inline-block; 
+	width:auto; 
+	margin:0 5px;
+}
+.follow-us li .fa{ 
+    font-size:33px; 
+    color:#767676;
+ }
+ .follow-us li .fa:hover{ 
+    font-size: 25px;
+ }
